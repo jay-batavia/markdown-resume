@@ -1,4 +1,7 @@
 ## Resume
+#### Jay Batavia
+  - _Email:_ bataviajay@gmail.com
+  - _LinkedIn:_ [linkedin.com/in/bataviajay](https://linkedin.com/in/bataviajay)
 ### Education
 #### Colorado College
   _2012 - 2016_
