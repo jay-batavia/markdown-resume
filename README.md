@@ -20,6 +20,7 @@
 ##### Associate Enterprise Instructor - Full Stack Development
 
 _2016 - Current_
+
   - Deliver lectures and tutorials in Full Stack Engineering &mdash; on-site at client locations.
 
   - Support (remotely if needed) students during class project work and pairing as necessary.
